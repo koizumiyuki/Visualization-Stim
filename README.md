@@ -1,6 +1,6 @@
 # Visualization-Stim
 
-Stim 回路の情報表示（qubits / detectors / observables）と、Stim の回路図を SVG として出力し、SVG→PDF（＋任意でPNG）に変換するための最小ユーティリティです。
+Stim 回路の情報表示（qubits / detectors / observables）と、Stim の回路図を SVG として出力し、SVG→PDFに変換するための最小ユーティリティです。
 
 ## 要件
 
