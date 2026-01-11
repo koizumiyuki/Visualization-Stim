@@ -1,0 +1,74 @@
+# 3-qubit repetition code (Z parity checks) with 3 rounds.
+# - Data qubits: 0,1,2
+# - Measure ancillas: 3,4 (check Z-parity of (0,1) and (1,2))
+# - Includes DETECTORs and one logical OBSERVABLE (Z parity of final data measurements)
+
+QUBIT_COORDS(0,0) 0
+QUBIT_COORDS(1,0) 1
+QUBIT_COORDS(2,0) 2
+QUBIT_COORDS(0.5,1) 3
+QUBIT_COORDS(1.5,1) 4
+
+# Initialize data
+R 0 1 2
+TICK
+
+# -------------------------
+# Round 0
+# -------------------------
+R 3 4
+CX 0 3
+CX 1 3
+CX 1 4
+CX 2 4
+TICK
+M 3 4
+
+# First round: detectors reference only current syndrome
+DETECTOR(0.5,1,0) rec[-2]
+DETECTOR(1.5,1,0) rec[-1]
+TICK
+
+# Add some noise between rounds (optional, for realism)
+X_ERROR(0.02) 0 1 2
+TICK
+
+# -------------------------
+# Round 1
+# -------------------------
+R 3 4
+CX 0 3
+CX 1 3
+CX 1 4
+CX 2 4
+TICK
+M 3 4
+
+# Compare syndrome changes between rounds
+DETECTOR(0.5,1,1) rec[-4] rec[-2]
+DETECTOR(1.5,1,1) rec[-3] rec[-1]
+TICK
+
+X_ERROR(0.02) 0 1 2
+TICK
+
+# -------------------------
+# Round 2
+# -------------------------
+R 3 4
+CX 0 3
+CX 1 3
+CX 1 4
+CX 2 4
+TICK
+M 3 4
+
+DETECTOR(0.5,1,2) rec[-4] rec[-2]
+DETECTOR(1.5,1,2) rec[-3] rec[-1]
+TICK
+
+# Final data measurement
+M 0 1 2
+
+# Logical Z observable: parity of final data Z measurements
+OBSERVABLE_INCLUDE(0) rec[-3] rec[-2] rec[-1]

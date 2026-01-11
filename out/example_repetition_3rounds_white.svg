@@ -1,0 +1,180 @@
+<svg viewBox="0 0 1238.4 716.8"  version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="white"/>
+
+<g id="qubit_dots">
+<circle id="qubit_dot:0:0_0:0" cx="80" cy="80" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:1:1_0:0" cx="144" cy="80" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:2:2_0:0" cx="208" cy="80" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:3:0.5_1:0" cx="112" cy="144" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:4:1.5_1:0" cx="176" cy="144" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:0:0_0:0" cx="80" cy="326.4" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:1:1_0:0" cx="144" cy="326.4" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:2:2_0:0" cx="208" cy="326.4" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:3:0.5_1:0" cx="112" cy="390.4" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:4:1.5_1:0" cx="176" cy="390.4" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:0:0_0:0" cx="80" cy="572.8" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:1:1_0:0" cx="144" cy="572.8" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:2:2_0:0" cx="208" cy="572.8" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:3:0.5_1:0" cx="112" cy="636.8" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:4:1.5_1:0" cx="176" cy="636.8" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:0:0_0:1" cx="396.8" cy="80" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:1:1_0:1" cx="460.8" cy="80" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:2:2_0:1" cx="524.8" cy="80" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:3:0.5_1:1" cx="428.8" cy="144" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:4:1.5_1:1" cx="492.8" cy="144" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:0:0_0:1" cx="396.8" cy="326.4" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:1:1_0:1" cx="460.8" cy="326.4" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:2:2_0:1" cx="524.8" cy="326.4" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:3:0.5_1:1" cx="428.8" cy="390.4" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:4:1.5_1:1" cx="492.8" cy="390.4" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:0:0_0:1" cx="396.8" cy="572.8" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:1:1_0:1" cx="460.8" cy="572.8" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:2:2_0:1" cx="524.8" cy="572.8" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:3:0.5_1:1" cx="428.8" cy="636.8" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:4:1.5_1:1" cx="492.8" cy="636.8" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:0:0_0:2" cx="713.6" cy="80" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:1:1_0:2" cx="777.6" cy="80" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:2:2_0:2" cx="841.6" cy="80" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:3:0.5_1:2" cx="745.6" cy="144" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:4:1.5_1:2" cx="809.6" cy="144" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:0:0_0:2" cx="713.6" cy="326.4" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:1:1_0:2" cx="777.6" cy="326.4" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:2:2_0:2" cx="841.6" cy="326.4" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:3:0.5_1:2" cx="745.6" cy="390.4" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:4:1.5_1:2" cx="809.6" cy="390.4" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:0:0_0:3" cx="1030.4" cy="80" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:1:1_0:3" cx="1094.4" cy="80" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:2:2_0:3" cx="1158.4" cy="80" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:3:0.5_1:3" cx="1062.4" cy="144" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:4:1.5_1:3" cx="1126.4" cy="144" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:0:0_0:3" cx="1030.4" cy="326.4" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:1:1_0:3" cx="1094.4" cy="326.4" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:2:2_0:3" cx="1158.4" cy="326.4" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:3:0.5_1:3" cx="1062.4" cy="390.4" r="2" stroke="none" fill="black"/>
+<circle id="qubit_dot:4:1.5_1:3" cx="1126.4" cy="390.4" r="2" stroke="none" fill="black"/>
+</g>
+<rect x="64" y="64" width="32" height="32" stroke="black" fill="black"/>
+<text dominant-baseline="central" text-anchor="middle" font-family="monospace" font-size="30" x="80" y="80" fill="white">R</text>
+<rect x="128" y="64" width="32" height="32" stroke="black" fill="black"/>
+<text dominant-baseline="central" text-anchor="middle" font-family="monospace" font-size="30" x="144" y="80" fill="white">R</text>
+<rect x="192" y="64" width="32" height="32" stroke="black" fill="black"/>
+<text dominant-baseline="central" text-anchor="middle" font-family="monospace" font-size="30" x="208" y="80" fill="white">R</text>
+<rect x="412.8" y="128" width="32" height="32" stroke="black" fill="black"/>
+<text dominant-baseline="central" text-anchor="middle" font-family="monospace" font-size="30" x="428.8" y="144" fill="white">R</text>
+<rect x="476.8" y="128" width="32" height="32" stroke="black" fill="black"/>
+<text dominant-baseline="central" text-anchor="middle" font-family="monospace" font-size="30" x="492.8" y="144" fill="white">R</text>
+<path d="M410.8,96 C430 102.4,449.2 140.8,442.8 160 " fill="none" stroke="black" stroke-width="5"/>
+<circle cx="410.8" cy="96" r="12" stroke="none" fill="black"/>
+<circle cx="442.8" cy="160" r="12" stroke="black" fill="white"/>
+<path d="M430.8,160 L454.8,160 M442.8,148 L442.8,172 " stroke="black"/>
+<path d="M488.8,112 C495.2 131.2,476 169.6,456.8 176 " fill="none" stroke="black" stroke-width="5"/>
+<circle cx="488.8" cy="112" r="12" stroke="none" fill="black"/>
+<circle cx="456.8" cy="176" r="12" stroke="black" fill="white"/>
+<path d="M444.8,176 L468.8,176 M456.8,164 L456.8,188 " stroke="black"/>
+<path d="M502.8,128 C522 134.4,541.2 172.8,534.8 192 " fill="none" stroke="black" stroke-width="5"/>
+<circle cx="502.8" cy="128" r="12" stroke="none" fill="black"/>
+<circle cx="534.8" cy="192" r="12" stroke="black" fill="white"/>
+<path d="M522.8,192 L546.8,192 M534.8,180 L534.8,204 " stroke="black"/>
+<path d="M580.8,144 C587.2 163.2,568 201.6,548.8 208 " fill="none" stroke="black" stroke-width="5"/>
+<circle cx="580.8" cy="144" r="12" stroke="none" fill="black"/>
+<circle cx="548.8" cy="208" r="12" stroke="black" fill="white"/>
+<path d="M536.8,208 L560.8,208 M548.8,196 L548.8,220 " stroke="black"/>
+<rect x="729.6" y="128" width="32" height="32" stroke="black" fill="black"/>
+<text dominant-baseline="central" text-anchor="middle" font-family="monospace" font-size="30" x="745.6" y="144" fill="white">M</text>
+<rect x="793.6" y="128" width="32" height="32" stroke="black" fill="black"/>
+<text dominant-baseline="central" text-anchor="middle" font-family="monospace" font-size="30" x="809.6" y="144" fill="white">M</text>
+<rect x="1014.4" y="64" width="32" height="32" stroke="black" fill="pink"/>
+<text dominant-baseline="central" text-anchor="middle" font-family="monospace" font-size="12" x="1030.4" y="80">ERR<tspan baseline-shift="sub" font-size="10">X</tspan></text>
+<text dominant-baseline="hanging" text-anchor="middle" font-family="monospace" font-size="10" stroke="red" x="1030.4" y="100">0.02</text>
+<rect x="1078.4" y="64" width="32" height="32" stroke="black" fill="pink"/>
+<text dominant-baseline="central" text-anchor="middle" font-family="monospace" font-size="12" x="1094.4" y="80">ERR<tspan baseline-shift="sub" font-size="10">X</tspan></text>
+<text dominant-baseline="hanging" text-anchor="middle" font-family="monospace" font-size="10" stroke="red" x="1094.4" y="100">0.02</text>
+<rect x="1142.4" y="64" width="32" height="32" stroke="black" fill="pink"/>
+<text dominant-baseline="central" text-anchor="middle" font-family="monospace" font-size="12" x="1158.4" y="80">ERR<tspan baseline-shift="sub" font-size="10">X</tspan></text>
+<text dominant-baseline="hanging" text-anchor="middle" font-family="monospace" font-size="10" stroke="red" x="1158.4" y="100">0.02</text>
+<rect x="96" y="374.4" width="32" height="32" stroke="black" fill="black"/>
+<text dominant-baseline="central" text-anchor="middle" font-family="monospace" font-size="30" x="112" y="390.4" fill="white">R</text>
+<rect x="160" y="374.4" width="32" height="32" stroke="black" fill="black"/>
+<text dominant-baseline="central" text-anchor="middle" font-family="monospace" font-size="30" x="176" y="390.4" fill="white">R</text>
+<path d="M94,342.4 C113.2 348.8,132.4 387.2,126 406.4 " fill="none" stroke="black" stroke-width="5"/>
+<circle cx="94" cy="342.4" r="12" stroke="none" fill="black"/>
+<circle cx="126" cy="406.4" r="12" stroke="black" fill="white"/>
+<path d="M114,406.4 L138,406.4 M126,394.4 L126,418.4 " stroke="black"/>
+<path d="M172,358.4 C178.4 377.6,159.2 416,140 422.4 " fill="none" stroke="black" stroke-width="5"/>
+<circle cx="172" cy="358.4" r="12" stroke="none" fill="black"/>
+<circle cx="140" cy="422.4" r="12" stroke="black" fill="white"/>
+<path d="M128,422.4 L152,422.4 M140,410.4 L140,434.4 " stroke="black"/>
+<path d="M186,374.4 C205.2 380.8,224.4 419.2,218 438.4 " fill="none" stroke="black" stroke-width="5"/>
+<circle cx="186" cy="374.4" r="12" stroke="none" fill="black"/>
+<circle cx="218" cy="438.4" r="12" stroke="black" fill="white"/>
+<path d="M206,438.4 L230,438.4 M218,426.4 L218,450.4 " stroke="black"/>
+<path d="M264,390.4 C270.4 409.6,251.2 448,232 454.4 " fill="none" stroke="black" stroke-width="5"/>
+<circle cx="264" cy="390.4" r="12" stroke="none" fill="black"/>
+<circle cx="232" cy="454.4" r="12" stroke="black" fill="white"/>
+<path d="M220,454.4 L244,454.4 M232,442.4 L232,466.4 " stroke="black"/>
+<rect x="412.8" y="374.4" width="32" height="32" stroke="black" fill="black"/>
+<text dominant-baseline="central" text-anchor="middle" font-family="monospace" font-size="30" x="428.8" y="390.4" fill="white">M</text>
+<rect x="476.8" y="374.4" width="32" height="32" stroke="black" fill="black"/>
+<text dominant-baseline="central" text-anchor="middle" font-family="monospace" font-size="30" x="492.8" y="390.4" fill="white">M</text>
+<rect x="697.6" y="310.4" width="32" height="32" stroke="black" fill="pink"/>
+<text dominant-baseline="central" text-anchor="middle" font-family="monospace" font-size="12" x="713.6" y="326.4">ERR<tspan baseline-shift="sub" font-size="10">X</tspan></text>
+<text dominant-baseline="hanging" text-anchor="middle" font-family="monospace" font-size="10" stroke="red" x="713.6" y="346.4">0.02</text>
+<rect x="761.6" y="310.4" width="32" height="32" stroke="black" fill="pink"/>
+<text dominant-baseline="central" text-anchor="middle" font-family="monospace" font-size="12" x="777.6" y="326.4">ERR<tspan baseline-shift="sub" font-size="10">X</tspan></text>
+<text dominant-baseline="hanging" text-anchor="middle" font-family="monospace" font-size="10" stroke="red" x="777.6" y="346.4">0.02</text>
+<rect x="825.6" y="310.4" width="32" height="32" stroke="black" fill="pink"/>
+<text dominant-baseline="central" text-anchor="middle" font-family="monospace" font-size="12" x="841.6" y="326.4">ERR<tspan baseline-shift="sub" font-size="10">X</tspan></text>
+<text dominant-baseline="hanging" text-anchor="middle" font-family="monospace" font-size="10" stroke="red" x="841.6" y="346.4">0.02</text>
+<rect x="1046.4" y="374.4" width="32" height="32" stroke="black" fill="black"/>
+<text dominant-baseline="central" text-anchor="middle" font-family="monospace" font-size="30" x="1062.4" y="390.4" fill="white">R</text>
+<rect x="1110.4" y="374.4" width="32" height="32" stroke="black" fill="black"/>
+<text dominant-baseline="central" text-anchor="middle" font-family="monospace" font-size="30" x="1126.4" y="390.4" fill="white">R</text>
+<path d="M1044.4,342.4 C1063.6 348.8,1082.8 387.2,1076.4 406.4 " fill="none" stroke="black" stroke-width="5"/>
+<circle cx="1044.4" cy="342.4" r="12" stroke="none" fill="black"/>
+<circle cx="1076.4" cy="406.4" r="12" stroke="black" fill="white"/>
+<path d="M1064.4,406.4 L1088.4,406.4 M1076.4,394.4 L1076.4,418.4 " stroke="black"/>
+<path d="M1122.4,358.4 C1128.8 377.6,1109.6 416,1090.4 422.4 " fill="none" stroke="black" stroke-width="5"/>
+<circle cx="1122.4" cy="358.4" r="12" stroke="none" fill="black"/>
+<circle cx="1090.4" cy="422.4" r="12" stroke="black" fill="white"/>
+<path d="M1078.4,422.4 L1102.4,422.4 M1090.4,410.4 L1090.4,434.4 " stroke="black"/>
+<path d="M1136.4,374.4 C1155.6 380.8,1174.8 419.2,1168.4 438.4 " fill="none" stroke="black" stroke-width="5"/>
+<circle cx="1136.4" cy="374.4" r="12" stroke="none" fill="black"/>
+<circle cx="1168.4" cy="438.4" r="12" stroke="black" fill="white"/>
+<path d="M1156.4,438.4 L1180.4,438.4 M1168.4,426.4 L1168.4,450.4 " stroke="black"/>
+<path d="M1214.4,390.4 C1220.8 409.6,1201.6 448,1182.4 454.4 " fill="none" stroke="black" stroke-width="5"/>
+<circle cx="1214.4" cy="390.4" r="12" stroke="none" fill="black"/>
+<circle cx="1182.4" cy="454.4" r="12" stroke="black" fill="white"/>
+<path d="M1170.4,454.4 L1194.4,454.4 M1182.4,442.4 L1182.4,466.4 " stroke="black"/>
+<rect x="96" y="620.8" width="32" height="32" stroke="black" fill="black"/>
+<text dominant-baseline="central" text-anchor="middle" font-family="monospace" font-size="30" x="112" y="636.8" fill="white">M</text>
+<rect x="160" y="620.8" width="32" height="32" stroke="black" fill="black"/>
+<text dominant-baseline="central" text-anchor="middle" font-family="monospace" font-size="30" x="176" y="636.8" fill="white">M</text>
+<rect x="380.8" y="556.8" width="32" height="32" stroke="black" fill="black"/>
+<text dominant-baseline="central" text-anchor="middle" font-family="monospace" font-size="30" x="396.8" y="572.8" fill="white">M</text>
+<rect x="444.8" y="556.8" width="32" height="32" stroke="black" fill="black"/>
+<text dominant-baseline="central" text-anchor="middle" font-family="monospace" font-size="30" x="460.8" y="572.8" fill="white">M</text>
+<rect x="508.8" y="556.8" width="32" height="32" stroke="black" fill="black"/>
+<text dominant-baseline="central" text-anchor="middle" font-family="monospace" font-size="30" x="524.8" y="572.8" fill="white">M</text>
+<g id="tick_borders">
+<text dominant-baseline="hanging" text-anchor="middle" font-family="serif" font-size="18" transform="rotate(90)" x="112" y="-282">Tick 0</text>
+<rect id="tick_border:0:0_0:0" x="0" y="0" width="288" height="224" stroke="black" fill="none"/>
+<text dominant-baseline="hanging" text-anchor="middle" font-family="serif" font-size="18" transform="rotate(90)" x="112" y="-598.8">Tick 1</text>
+<rect id="tick_border:1:0_1:1" x="316.8" y="0" width="288" height="224" stroke="black" fill="none"/>
+<text dominant-baseline="hanging" text-anchor="middle" font-family="serif" font-size="18" transform="rotate(90)" x="112" y="-915.6">Tick 2</text>
+<rect id="tick_border:2:0_2:2" x="633.6" y="0" width="288" height="224" stroke="black" fill="none"/>
+<text dominant-baseline="hanging" text-anchor="middle" font-family="serif" font-size="18" transform="rotate(90)" x="112" y="-1232.4">Tick 3</text>
+<rect id="tick_border:3:0_3:3" x="950.4" y="0" width="288" height="224" stroke="black" fill="none"/>
+<text dominant-baseline="hanging" text-anchor="middle" font-family="serif" font-size="18" transform="rotate(90)" x="358.4" y="-282">Tick 4</text>
+<rect id="tick_border:4:1_0:4" x="0" y="246.4" width="288" height="224" stroke="black" fill="none"/>
+<text dominant-baseline="hanging" text-anchor="middle" font-family="serif" font-size="18" transform="rotate(90)" x="358.4" y="-598.8">Tick 5</text>
+<rect id="tick_border:5:1_1:5" x="316.8" y="246.4" width="288" height="224" stroke="black" fill="none"/>
+<text dominant-baseline="hanging" text-anchor="middle" font-family="serif" font-size="18" transform="rotate(90)" x="358.4" y="-915.6">Tick 6</text>
+<rect id="tick_border:6:1_2:6" x="633.6" y="246.4" width="288" height="224" stroke="black" fill="none"/>
+<text dominant-baseline="hanging" text-anchor="middle" font-family="serif" font-size="18" transform="rotate(90)" x="358.4" y="-1232.4">Tick 7</text>
+<rect id="tick_border:7:1_3:7" x="950.4" y="246.4" width="288" height="224" stroke="black" fill="none"/>
+<text dominant-baseline="hanging" text-anchor="middle" font-family="serif" font-size="18" transform="rotate(90)" x="604.8" y="-282">Tick 8</text>
+<rect id="tick_border:8:2_0:8" x="0" y="492.8" width="288" height="224" stroke="black" fill="none"/>
+<text dominant-baseline="hanging" text-anchor="middle" font-family="serif" font-size="18" transform="rotate(90)" x="604.8" y="-598.8">Tick 9</text>
+<rect id="tick_border:9:2_1:9" x="316.8" y="492.8" width="288" height="224" stroke="black" fill="none"/>
+</g>
+</svg>
